@@ -1,0 +1,15 @@
+    envVars:
+      - key: PORT
+        value: 5001
+      - key: MONGO_URI
+        value: mongodb+srv...
+      - key: STEAM_API_KEY
+        value: hba582ga7hxs
+      - key: STEAM_API_SECRET
+        value: y37mp8j3kdwcbvra5uabuwf4dumnm88c2v7akkxruwrk66qcqjek7c7d8452b6q4
+      - key: JWT_SECRET_KEY
+        value: i6/LbjB+C7lsMKpWpoJxSeDpbz0UfwFxyp8pjIQjpmg=
+      - key: NODE_ENV
+        value: production
+      - key: CORS_ORIGIN
+        value: 
